@@ -21,17 +21,14 @@ ul {
 }
 
 
-ul {
 
-
-}
 
 
 ul li {
 
     list-style: none;
     display: inline-block;
-    float: left;
+    float:left;
     line-height: 100px;
     
     
